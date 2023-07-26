@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/UwU - SOUND EFFECT.mp3-48e0161d3308404cb2d8e5b56f015129.mp3str"
+
+[deps]
+
+source_file="res://Audio/UwU - SOUND EFFECT.mp3"
+dest_files=[ "res://.import/UwU - SOUND EFFECT.mp3-48e0161d3308404cb2d8e5b56f015129.mp3str" ]
+
+[params]
+
+loop=false
+loop_offset=0
